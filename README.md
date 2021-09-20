@@ -5,4 +5,4 @@ Integrantes del Equipo "Mafiosos":
   - Guerrero Gamez Francisco Javier
   - Rodriguez Espinosa Jorge Luis
   - Sanchez Ramirez Alan Ariel
-  - Villalobos De Leon JUan Carlos
+  - Villalobos De Leon Juan Carlos
