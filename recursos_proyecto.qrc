@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="UAT_FIANS">
+    <file>Imagenes/FIANS.png</file>
+  </qresource>
+  <qresource prefix="LOGO">
+    <file>Imagenes/HD-wallpaper-bob-esponja-mafioso-bob-esponja-gangster-mafioso-meme.jpg</file>
+  </qresource>
+  <qresource prefix="NUMEROS">
+    <file>Imagenes/GOKUBOCA.jpg</file>
+    <file>Imagenes/tumtum.jpeg</file>
+    <file>Imagenes/Boca_Juniors_logo18.svg.png</file>
+    <file>Imagenes/jorgemorro.jpg</file>
+  </qresource>
+</RCC>
