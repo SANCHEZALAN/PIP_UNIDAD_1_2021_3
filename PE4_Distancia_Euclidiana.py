@@ -2,7 +2,7 @@ import sys
 
 from PyQt5 import uic, QtWidgets
 
-qtCreatorFile = "P1_P5_Distancia_Euclidiana.ui" # Nombre del archivo aquí.
+qtCreatorFile = "PE4_Distancia_Euclidiana.ui" # Nombre del archivo aquí.
 
 Ui_MainWindow, QtBaseClass = uic.loadUiType(qtCreatorFile)
 
