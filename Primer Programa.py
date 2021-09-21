@@ -1,6 +1,5 @@
 import sys
 
-import self as self
 from PyQt5 import uic, QtWidgets
 
 qtCreatorFile = "Prog_01_PrimerPrograma.ui" # Nombre del archivo aquí.
