@@ -1,7 +1,6 @@
 import sys
 
 from PyQt5 import uic, QtWidgets
-from math import factorial
 
 qtCreatorFile = "P1_P4_Distancia_Manhattan.ui" # Nombre del archivo aquí.
 
