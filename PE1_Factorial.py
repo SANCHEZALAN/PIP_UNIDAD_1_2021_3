@@ -3,7 +3,7 @@ import sys
 from PyQt5 import uic, QtWidgets
 from math import factorial
 
-qtCreatorFile = "P5_Factorial.ui" # Nombre del archivo aquí.
+qtCreatorFile = "PE1_Factorial.ui" # Nombre del archivo aquí.
 
 Ui_MainWindow, QtBaseClass = uic.loadUiType(qtCreatorFile)
 
