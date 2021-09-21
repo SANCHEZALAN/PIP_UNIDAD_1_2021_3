@@ -31,6 +31,11 @@ class MyApp(QtWidgets.QMainWindow, Ui_MainWindow):
                 self.mensaje("Esta Correcto")
             else: self.mensaje("Esta Incorrecto")
 
+    def mensaje(self,msj):
+        m = QtWidgets.QMessageBox()
+        m.setText(msj)
+        m.exec_()
+
 if __name__ == "__main__":
     app = QtWidgets.QApplication(sys.argv)
     window = MyApp()
