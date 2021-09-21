@@ -2,7 +2,7 @@ import sys
 
 from PyQt5 import uic, QtWidgets
 
-qtCreatorFile = "P5_PromedioN_lista.ui" # Nombre del archivo aquí.
+qtCreatorFile = "PT2_V2_PromedioN_lista.ui" # Nombre del archivo aquí.
 
 Ui_MainWindow, QtBaseClass = uic.loadUiType(qtCreatorFile)
 
