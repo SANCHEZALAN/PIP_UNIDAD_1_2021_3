@@ -2,7 +2,7 @@ import sys
 
 from PyQt5 import uic, QtWidgets
 
-qtCreatorFile = "P6_PuntoMedio.ui" # Nombre del archivo aquí.
+qtCreatorFile = "PE2_PuntoMedio.ui" # Nombre del archivo aquí.
 
 Ui_MainWindow, QtBaseClass = uic.loadUiType(qtCreatorFile)
 
