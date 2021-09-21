@@ -28,7 +28,7 @@ class MyApp(QtWidgets.QMainWindow, Ui_MainWindow):
         except Exception as error:
             print(sys.exc_info()[0])
 
-    def mensaje(self,msj):
+    def mensaje(self, msj):
         m = QtWidgets.QMessageBox()
         m.setText(msj)
         m.exec_()
