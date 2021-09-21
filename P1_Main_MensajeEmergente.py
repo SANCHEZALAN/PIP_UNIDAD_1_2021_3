@@ -2,7 +2,7 @@ import sys
 
 from PyQt5 import uic, QtWidgets
 
-qtCreatorFile = "P2_SaludoNombre.ui" # Nombre del archivo aquí.
+qtCreatorFile = "P1_MensajeEmergente.ui" # Nombre del archivo aquí.
 
 Ui_MainWindow, QtBaseClass = uic.loadUiType(qtCreatorFile)
 
