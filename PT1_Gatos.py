@@ -2,7 +2,7 @@ import sys
 
 from PyQt5 import uic, QtWidgets
 
-qtCreatorFile = "P8_Gatos.ui" # Nombre del archivo aquí.
+qtCreatorFile = "PT1_Gatos.ui" # Nombre del archivo aquí.
 
 Ui_MainWindow, QtBaseClass = uic.loadUiType(qtCreatorFile)
 
